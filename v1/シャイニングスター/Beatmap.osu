@@ -1,7 +1,7 @@
 karaoke file format v13
 
 [General]
-AudioFilename: audio.mp3
+AudioFilename: song.mp3
 AudioLeadIn: 0
 PreviewTime: 71220
 Countdown: 0
@@ -18,16 +18,16 @@ GridSize: 4
 TimelineZoom: 1
 
 [Metadata]
-Title:Chi-o chan no tsukaku roku [ED]
-TitleUnicode:ちおちゃんの通学路[ED]
-Artist:undefined
-ArtistUnicode:三谷裳ちお(大空直美),野々村真奈菜(小見川千明)
+Title:Shinning star
+TitleUnicode:シャイニングスター
+Artist:森田交一
+ArtistUnicode:森田交一
 Creator:andy840119
-Version:Easy
-Source:
+Version:Normal
+Source:https://maoudamashii.jokersounds.com/archives/song_shiho_shining_star.html
 Tags:karaoke
-BeatmapID:3
-BeatmapSetID:3
+BeatmapID:1
+BeatmapSetID:1
 
 [Difficulty]
 HPDrainRate:2
@@ -37,15 +37,12 @@ ApproachRate:4
 SliderMultiplier:0.8
 SliderTickRate:1
 
+[Events]
+//Background and Video events
+Video,0,"video.mp4"
+0,0,"bg.png",0,0
+
 [Colours]
-Combo1 : 255,255,255
-Combo2 : 72,255,72
-Combo3 : 255,128,0
-Combo4 : 255,32,32
-Combo5 : 0,128,255
-Combo6 : 255,85,255
-Combo7 : 0,183,0
-Combo8 : 176,112,77
 
 [HitObjects]
 @[00:18:58]た[00:18:81]だ[00:19:36]風[00:20:09]に[00:20:29]揺[00:20:49]ら[00:20:68]れ[00:20:89]て[00:20:93]
