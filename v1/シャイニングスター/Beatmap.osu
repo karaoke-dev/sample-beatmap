@@ -1,4 +1,4 @@
-karaoke file format v13
+karaoke file format v1
 
 [General]
 AudioFilename: song.mp3
@@ -24,7 +24,7 @@ Artist:森田交一
 ArtistUnicode:森田交一
 Creator:andy840119
 Version:Normal
-Source:https://maoudamashii.jokersounds.com/archives/song_shiho_shining_star.html
+Source:シャイニングスター
 Tags:karaoke
 BeatmapID:1
 BeatmapSetID:1
