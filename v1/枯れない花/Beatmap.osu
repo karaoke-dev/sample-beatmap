@@ -26,8 +26,8 @@ Creator:andy840119
 Version:Normal
 Source:枯れない花
 Tags:karaoke
-BeatmapID:1
-BeatmapSetID:1
+BeatmapID:2
+BeatmapSetID:2
 
 [Difficulty]
 HPDrainRate:2
@@ -39,7 +39,6 @@ SliderTickRate:1
 
 [Events]
 //Background and Video events
-Video,0,"video.mp4"
 0,0,"bg.png",0,0
 
 [Colours]
